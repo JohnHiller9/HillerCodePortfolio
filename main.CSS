@@ -1,0 +1,102 @@
+/*logo picture*/
+#logo{
+    margin-left: 10px;
+    margin-top: 70px;
+}
+/*body of text*/
+#text{
+
+    background-repeat:no-repeat;
+    background-attachment: scroll;
+    background-size: 100% 100%;
+    background-image:url(/Images/JHiller_resumeBorder.jpg);
+    margin-left: 2in;
+    text-align: left;
+    margin-bottom: 1in;
+}
+/*fits background image to webspace*/
+div{
+   
+    max-width: 100%;
+}
+/*Profile Picture*/
+#profile{
+    margin-top: 70px;
+    border: 10px #22418b solid;   
+}
+
+/*header John Hiller*/
+h1{
+    
+    margin-top:70px;
+    font: 60px Helvetica;
+    text-decoration: underline;
+    font-weight: bold;
+    color:#22418b;
+    
+}
+/*Categories*/
+h2{    
+    
+    font: 30px Helvetica;
+    font-weight: bold;
+    color:#22418b;
+    
+}
+/*Names*/
+h3{
+    
+    font: 20px Helvetica;
+    font-weight: bold;
+    color:#22418b;
+}
+/*email*/
+h5{
+    font: 20px Helvetica;
+    font-weight: bold;
+    color:#22418b;
+}
+/*logo icons*/
+#SQL{
+    margin-left: 15px;
+}
+#HTML{
+    margin-left: 15px;
+}
+#JS{
+    margin-left: 15px;
+}
+#CSS{
+    margin-left: 15px;
+}
+#ASP{
+    margin-left: 15px;
+}
+/*indention*/
+h8{
+    
+    margin-left: 9px;
+}
+/*text*/
+p{
+   
+    color:#22418b;
+    text-align: left;
+    font: 15px Helvetica;
+    font-weight: normal;
+}
+
+/*Where to find me*/
+h9{
+    font: 30px Helvetica;
+    font-weight: bold;
+    color:#22418b;
+}
+#Whereto{
+    
+    margin-top: 30px;
+}
+
+#GitHub{
+    margin-left: 50px;
+}
